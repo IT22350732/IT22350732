@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Menda+%F0%9F%91%8B;IT+Undergraduate+at+SLIIT;Aspiring+Backend+Engineer;MERN+Stack+%7C+.NET+Developer;Building+Real-World+Applications" /> </div>
+
 👋 Hi, I’m Menda
 
 🎓 IT Undergraduate at SLIIT
