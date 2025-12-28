@@ -48,9 +48,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IT22350732&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
 </p>
-
+<br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Menda's&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT2235732&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
