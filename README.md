@@ -1,17 +1,18 @@
 <!-- Profile Header -->
-<div align="center">
+<div align="center" style="padding: 16px; background: linear-gradient(135deg, #0d1117, #0f172a); border-radius: 14px; border: 1px solid #1f2937;">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Menda+%F0%9F%91%8B;IT+Undergraduate+at+SLIIT;Aspiring+Backend+Engineer;MERN+Stack+%7C+.NET+Developer;Building+Scalable+Web+Apps" />
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/IT22350732?tab=followers ">
-    <img src="https://img.shields.io/github/followers/IT22350732?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" alt="GitHub Followers " />
+<p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/IT22350732?tab=followers">
+    <img src="https://img.shields.io/github/followers/IT22350732?label=followers&style=for-the-badge&logo=github&color=0ea5e9" alt="github followers" />
   </a>
   <a href="mailto:imethmendis22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-imethmendis22%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/email-imethmendis22%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=IT22350732&label=Profile%20Views&color=6b7280&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -39,6 +40,22 @@
 - 📊 **Employee Management Systems** — Role-based access, payroll modules, and auditing
 
 > More projects on my [GitHub profile](https://github.com/IT22350732).
+
+---
+
+### 📊 Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IT22350732&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IT22350732&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22350732&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT22350732&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ---
 
