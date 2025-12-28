@@ -44,17 +44,13 @@
 ---
 
 ### 📊 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT22350732&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IT22350732&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22350732&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT22350732&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Menda's&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
