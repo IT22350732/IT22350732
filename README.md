@@ -50,7 +50,7 @@
 
 ### 📊 Stats & Activity
 
-<p align="center"><strong>Imeth Mendis — GitHub Streak</strong></p>
+<p align="center"><strong><b>Imeth Mendis — GitHub Streak</b></strong></p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IT22350732&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
 </p>
