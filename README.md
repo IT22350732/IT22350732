@@ -6,8 +6,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/IT22350732?tab=followers">
-    <img src="https://img.shields.io/github/followers/IT22350732?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" alt="GitHub Followers" />
+  <a href="https://github.com/IT22350732?tab=followers ">
+    <img src="https://img.shields.io/github/followers/IT22350732?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" alt="GitHub Followers " />
   </a>
   <a href="mailto:imethmendis22@gmail.com">
     <img src="https://img.shields.io/badge/Email-imethmendis22%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
