@@ -27,10 +27,11 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** React, JavaScript, HTML, CSS  
-- **Backend:** Node.js, Express, .NET Core  
+- **Frontend:** React, JavaScript/TypeScript, HTML, CSS (Flexbox, Grid), UI/UX fundamentals
+- **Backend:** Node.js, Express, .NET Core, PHP, Java (core, web), Python (scripts/APIs)
 - **Databases:** MongoDB, SQL Server, MySQL, Oracle DB
-- **Tools & Practices:** Git, VS Code, Postman, REST APIs, MVC, CRUD, Testing & Debugging
+- **Infra & Tools:** Git, VS Code, Postman, VMware, Docker (basics), CI/CD (basics)
+- **Practices:** REST APIs, MVC, CRUD, testing & debugging, API documentation
 
 ---
 
@@ -60,9 +61,13 @@
 ---
 
 ### 🌱 Learning & Focus
-- Advanced backend patterns (caching, queues, observability)
-- Cloud fundamentals & deployment (CI/CD, containers)
-- System design for scalability and reliability
+- Advanced backend patterns: caching, queues, observability, and resilience patterns (circuit breakers, retries, rate limiting)
+- Cloud & deployment: CI/CD pipelines, containers (Docker), orchestration (Kubernetes basics), and cloud fundamentals (networking, IAM, cost awareness)
+- System design: scalability, reliability, fault isolation, and capacity planning
+- Networking: HTTP/REST best practices, APIs, and fundamental protocols; security basics (TLS, auth, rate limiting)
+- Frontend & UX: UI/UX fundamentals, accessibility, responsive layouts, design systems
+- Frontend tech: React (JavaScript/TypeScript), modern HTML/CSS (Flexbox/Grid), component patterns
+- Languages & tooling: Python, Java, JavaScript/TypeScript; testing and debugging across the stack
 
 ---
 
