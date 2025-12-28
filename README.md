@@ -39,9 +39,9 @@
 - 🏨 **Smart Hotel Stock Management** — Inventory tracking, alerts, and analytics dashboards
 - 🧑‍💼 **Intern Management System (IMS)** — Intern onboarding, evaluations, and reporting
 - 📊 **Employee Management Systems** — Role-based access, payroll modules, and auditing
-- 🏢 **TSS (Tech Smart Systems) — Transaction/Service system built in PHP, focused on operational workflows and data handling.
-- 🏭 AAW (Active Aluminum Windows) — “Production System for Active Aluminium Windows”: manages production runs, inventory, and shop-floor data for aluminum window manufacturing.
-- 🏦 ComBank (Commercial Bank Sri Lanka - ERP System) — Full-stack banking solution: Java backend (core logic/services) and TypeScript/SCSS frontend for customer-facing flows, account operations, and secure interactions.
+- 🏢 **TSS (Tech Smart Systems)** — Transaction/Service system built in PHP, focused on operational workflows and data handling.
+- 🏭 **AAW (Active Aluminum Windows)** — “Production System for Active Aluminium Windows”: manages production runs, inventory, and shop-floor data for aluminum window manufacturing.
+- 🏦 **ComBank (Commercial Bank Sri Lanka - ERP System)** — Full-stack banking solution: Java backend (core logic/services) and TypeScript/SCSS frontend for customer-facing flows, account operations, and secure interactions.
 
 > More projects on my [GitHub profile](https://github.com/IT22350732).
 
