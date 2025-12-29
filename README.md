@@ -53,7 +53,7 @@
 <p align="center"><strong><span style="color:#00C2FF;">Imeth Mendis</span> — GitHub Streak</strong></p>
 <p align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=IT22350732&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&cache_seconds=86400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 </p>
 <br>
