@@ -53,7 +53,7 @@
 <p align="center"><strong><span style="color:#00C2FF;">Imeth Mendis</span> — GitHub Streak</strong></p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=IT22350732&theme=tokyonight&hide_border=true&mode=weekly&date_format=M%20j%5B,%20Y%5D&border_radius=12" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=IT22350732&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
   </a>
 </p>
 <br>
