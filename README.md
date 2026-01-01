@@ -51,14 +51,6 @@
 ### 📊 Stats & Activity
 
 <!-- Stats badges row -->
-<p align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; align-items: center;">
-  <a href="https://github.com/IT22350732">
-    <img src="https://github-readme-stats.vercel.app/api?username=IT22350732&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=390" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/IT22350732">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22350732&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages" />
-  </a>
-</p>
 
 <!-- Profile details (full width) -->
 <p align="center">
