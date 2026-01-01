@@ -59,7 +59,7 @@
 </p>
 
 <!-- Achievements -->
-<p align="center"><strong><h3><b>Achievements</b></h3></strong></p>
+<p align="center"><strong><h3><b><center>Achievements</center></b></h3></strong></p>
 <ul>
   <li>✅ Completed multiple full-stack systems: booking, inventory, ERP, and management platforms</li>
   <li>🚀 Backend focus: APIs, data models, and performance-minded services</li>
