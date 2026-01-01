@@ -67,9 +67,27 @@
   </a>
 </p>
 
-<!-- Activity graph (full width) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT22350732&theme=tokyo-night&hide_border=true&area=true&custom_title=Imeth%20Mendis%27s%20Activity%20Graph" alt="Activity Graph" />
+<!-- Achievements -->
+<p align="center"><strong>Achievements</strong></p>
+<ul>
+  <li>✅ Completed multiple full-stack systems: booking, inventory, ERP, and management platforms</li>
+  <li>🚀 Backend focus: APIs, data models, and performance-minded services</li>
+  <li>📈 Consistent learning in cloud, CI/CD, and system design fundamentals</li>
+</ul>
+
+<!-- Tech logos -->
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-233056?style=for-the-badge&logo=node.js&logoColor=6cc24a" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-0e172a?style=for-the-badge&logo=mysql&logoColor=F29111" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-1f2937?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker (basics)" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
