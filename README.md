@@ -67,7 +67,6 @@
 </ul>
 
 <br>
-<br>
 
 <!-- Tech logos -->
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
@@ -87,6 +86,7 @@
 ---
 
 ### 🌱 Learning & Focus
+
 - Advanced backend patterns: caching, queues, observability, and resilience patterns (circuit breakers, retries, rate limiting)
 - Cloud & deployment: CI/CD pipelines, containers (Docker), orchestration (Kubernetes basics), and cloud fundamentals (networking, IAM, cost awareness)
 - System design: scalability, reliability, fault isolation, and capacity planning
