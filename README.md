@@ -50,13 +50,20 @@
 
 ### 📊 Stats & Activity
 
-<p align="center"><strong><span style="color:#00C2FF;">Imeth Mendis</span> — GitHub Streak</strong></p>
-<p align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
+<p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/IT22350732">
+    <img src="https://github-readme-stats.vercel.app/api?username=IT22350732&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/IT22350732">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22350732&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/IT22350732">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IT22350732&theme=tokyonight" alt="Profile Details" />
+  </a>
 </p>
-<br>
+
+<br/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT22350732&theme=tokyo-night&hide_border=true&area=true&custom_title=Imeth%20Mendis%27s%20Activity%20Graph" alt="Activity Graph" />
 </p>
