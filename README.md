@@ -66,6 +66,8 @@
   <li>📈 Consistent learning in cloud, CI/CD, and system design fundamentals</li>
 </ul>
 
+<br>
+<br>
 
 <!-- Tech logos -->
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
