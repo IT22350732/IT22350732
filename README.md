@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center" style="padding: 16px; background: linear-gradient(135deg, #0d1117, #0f172a); border-radius: 14px; border: 1px solid #1f2937;">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Menda+%F0%9F%91%8B;Software+Engineer+Intern+In+Genesis+IT+Labs;IT+Undergraduate+at+SLIIT;Aspiring+Backend+Engineer;Frontend+Engineer;Building+Scalable+Web+Apps+&+Websites" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Menda+%F0%9F%91%8B;Software+Engineer+Intern+At+Genesis+IT+Labs;IT+Undergraduate+at+SLIIT;Aspiring+Backend+Engineer;Frontend+Engineer;Building+Scalable+Web+Apps+&+Websites" />
 </div>
 
 <br/>
